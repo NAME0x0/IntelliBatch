@@ -1,4 +1,4 @@
-# Integrated Terminal Desktop (ITD)
+# Terminus
 
 A Windows-based terminal designed to replace the full desktop, combining terminal and desktop features for a modern, efficient user experience.
 
@@ -41,8 +41,8 @@ A Windows-based terminal designed to replace the full desktop, combining termina
 1. Clone the repository:
 
    ```batch
-   git clone <https://github.com/yourusername/ITD.git>
-   cd ITD
+   git clone <https://github.com/NAME0x0/Terminus.git>
+   cd Terminus
    ```
 
 2. Create a build directory:
@@ -67,7 +67,7 @@ A Windows-based terminal designed to replace the full desktop, combining termina
 5. Run the application:
 
    ```batch
-   ./bin/ITD
+   ./bin/Terminus
    ```
 
 ## Project Structure
