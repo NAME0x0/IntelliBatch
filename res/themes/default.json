@@ -1,0 +1,64 @@
+{
+  "name": "Default",
+  "version": "1.0",
+  "author": "ITD Team",
+  "description": "Default theme for Integrated Terminal Desktop",
+  "colors": {
+    "background": "#1E1E1E",
+    "foreground": "#D4D4D4",
+    "accent": "#007ACC",
+    "selection": "#264F78",
+    "terminal": {
+      "background": "#0C0C0C",
+      "foreground": "#F2F2F2",
+      "cursor": "#FFFFFF",
+      "selection": "#264F78",
+      "black": "#0C0C0C",
+      "red": "#C50F1F",
+      "green": "#13A10E",
+      "yellow": "#C19C00",
+      "blue": "#0037DA",
+      "magenta": "#881798",
+      "cyan": "#3A96DD",
+      "white": "#CCCCCC",
+      "brightBlack": "#767676",
+      "brightRed": "#E74856",
+      "brightGreen": "#16C60C",
+      "brightYellow": "#F9F1A5",
+      "brightBlue": "#3B78FF",
+      "brightMagenta": "#B4009E",
+      "brightCyan": "#61D6D6",
+      "brightWhite": "#F2F2F2"
+    },
+    "ui": {
+      "menubar": "#2D2D2D",
+      "menubarText": "#D4D4D4",
+      "toolbar": "#2D2D2D",
+      "toolbarText": "#D4D4D4",
+      "sidebar": "#252526",
+      "sidebarText": "#D4D4D4",
+      "statusbar": "#007ACC",
+      "statusbarText": "#FFFFFF",
+      "taskbar": "#2D2D2D",
+      "taskbarText": "#D4D4D4",
+      "taskbarActive": "#007ACC",
+      "taskbarActiveText": "#FFFFFF"
+    }
+  },
+  "fonts": {
+    "terminal": {
+      "family": "Cascadia Code",
+      "size": 12,
+      "weight": "normal"
+    },
+    "ui": {
+      "family": "Segoe UI",
+      "size": 10,
+      "weight": "normal"
+    }
+  },
+  "transparency": {
+    "enabled": true,
+    "value": 230
+  }
+} 

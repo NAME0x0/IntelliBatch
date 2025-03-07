@@ -1,0 +1,2 @@
+1. Download wxWidgets 3.2.0 or newer from https://www.wxwidgets.org/downloads/
+1. Download Lua 5.4 or newer from https://www.lua.org/download.html
