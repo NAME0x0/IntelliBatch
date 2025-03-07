@@ -1,14 +1,14 @@
-# Integrated Terminal Desktop Documentation
+# Terminus Documentation
 
-This directory contains documentation for the Integrated Terminal Desktop (ITD) project.
+This directory contains documentation for the Terminus project.
 
 ## Documentation Structure
 
-- **User Guide**: End-user documentation explaining how to use ITD
-- **Developer Guide**: Documentation for developers working on ITD
-- **API Reference**: Detailed documentation of ITD's API
-- **Architecture**: Documentation of ITD's architecture
-- **Build Guide**: Instructions for building ITD
+- **User Guide**: End-user documentation explaining how to use Terminus
+- **Developer Guide**: Documentation for developers working on Terminus
+- **API Reference**: Detailed documentation of Terminus's API
+- **Architecture**: Documentation of Terminus's architecture
+- **Build Guide**: Instructions for building Terminus
 
 ## Generate Documentation
 
